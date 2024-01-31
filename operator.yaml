@@ -3,7 +3,7 @@ operator:
     earnings_receiver_address: 0x65b48ba942f1027ebdDc14426A3bfBC16EEF782C
     delegation_approver_address: "0x0000000000000000000000000000000000000000"
     staker_opt_out_window_blocks: 0
-    metadata_url: ""
+    metadata_url: "https://raw.githubusercontent.com/DYung26/EigenLayer/main/metadata.json"
 el_slasher_address: ""
 bls_public_key_compendium_address: ""
 eth_rpc_url: http://localhost:8545
