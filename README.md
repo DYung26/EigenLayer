@@ -1,1 +1,1 @@
-# EigenLayer
+# EigenLayer Node Operator
