@@ -1,0 +1,13 @@
+operator:
+    address: 0x65b48ba942f1027ebdDc14426A3bfBC16EEF782C
+    earnings_receiver_address: 0x65b48ba942f1027ebdDc14426A3bfBC16EEF782C
+    delegation_approver_address: "0x0000000000000000000000000000000000000000"
+    staker_opt_out_window_blocks: 0
+    metadata_url: ""
+el_slasher_address: ""
+bls_public_key_compendium_address: ""
+eth_rpc_url: http://localhost:8545
+private_key_store_path: /home/ubuntu/.eigenlayer/operator_keys/dyung.ecdsa.key.json
+signer_type: local_keystore
+bls_private_key_store_path: /home/ubuntu/.eigenlayer/operator_keys/dyung.bls.key.json
+chain_id: 5
